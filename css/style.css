@@ -755,11 +755,11 @@ nav .navbar-nav a:hover{
     color: #5E454B;
 }
 
-/*.indonesia .image img{
-    width: 100%;
-    height: 100%;
+.indonesia .image img{
+    width: inherit;
+    height: inherit;
 }
-*/
+
 section {
     background-color: #F3F0D7;
 }
